@@ -1,0 +1,23 @@
+h1{
+    color:rgb(65, 82, 214,1);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#my-image{
+    border: 2px dashed red;
+}
+.myimage{
+    border-radius: 25%;
+}
+
+#section>div>img{
+    border: 3px solid red;
+}
+
+.container>h1{
+    color: darkkhaki;
+    font-weight: 900;
+    font-size: 40px;
+}
